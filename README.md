@@ -7,7 +7,7 @@ Email : dav83@cornell.edu
 
 1. Jupyter Notebook
 2. Python 3
-3. pandas, numpy, matplotlib, yaml, xml.etree.ElementTree, os, plotly.express
+3. pandas, numpy, matplotlib, yaml, xml.etree.ElementTree, os, plotly.express packages
 
 
 # Relevant Files
