@@ -12,7 +12,7 @@ Email : dav83@cornell.edu
 
 # Relevant Files
 
-```Dataset```: Contains all of the new data files created from the code, formatted to match each other, and saved in the form of a CSV file
+```Dataset```: Contains all of the new data files created from the code, formatted to match each other, and saved in the form of a CSV file\
 ```Venmito_David_Velasquez.ipynb```: The Jupyter Notebook containing the coding solution in three parts: data ingestion, data conforming and matching, data analyisis in the form of graphs, data output in text suggestions
 
 # Solution Descriptions and Decisions
